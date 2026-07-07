@@ -1,0 +1,228 @@
+Privacy Policy
+
+**Effective Date:** July 2026
+
+**Tasbih Counter & Reminders** ("we", "our", or "the App") respects your privacy and is committed to protecting your personal information. This Privacy Policy explains what information the app collects, how it is used, and your rights regarding your data.
+
+By using the app, you agree to the practices described in this Privacy Policy.
+
+---
+
+# Information We Collect
+
+## 1. Account Information
+
+If you choose to sign in using your Google account, we may collect:
+
+* Your name
+* Your email address
+* Your Google profile photo
+
+This information is provided by Google Authentication and is used only to personalize your experience and synchronize your data across devices.
+
+---
+
+## 2. User Content
+
+The app stores information that you create, including:
+
+* Favorite Tasbih
+* Reminder schedules
+* Reminder settings
+* Feedback or messages submitted through the Contact Us feature
+
+This information is stored securely using Firebase Cloud Firestore and may also be stored locally on your device to improve performance and offline access.
+
+---
+
+## 3. Local Device Storage
+
+To provide offline functionality, the app stores certain information locally on your device, including:
+
+* Reading history (if enabled)
+* Favorite Tasbih
+* Reminder information
+* App settings
+* Selected Tasbih
+* Theme preferences
+
+Local data remains on your device unless removed by you or by uninstalling the application.
+
+---
+
+## 4. Notifications
+
+If you create reminders, the app schedules local notifications on your device.
+
+These notifications are generated locally and are used solely to remind you to perform your selected Tasbih or Dhikr.
+
+---
+
+## 5. Analytics and Crash Information
+
+The current version of the app does not intentionally collect analytics or crash reports.
+
+If analytics or crash reporting services are added in future versions, this Privacy Policy will be updated accordingly.
+
+---
+
+# Information We Do NOT Collect
+
+We do not collect:
+
+* Precise location
+* Contacts
+* SMS messages
+* Call logs
+* Microphone recordings
+* Camera images
+* Financial information
+* Passwords
+* Health information
+* Personal documents
+
+---
+
+# How We Use Your Information
+
+Your information is used only to:
+
+* Provide app functionality
+* Synchronize favorites across devices
+* Synchronize reminders across devices
+* Personalize your experience
+* Send scheduled reminder notifications
+* Respond to support requests and feedback
+* Improve app functionality
+
+We do not sell your personal information.
+
+---
+
+# Cloud Storage
+
+If you are signed in, some information is securely stored using **Google Firebase Cloud Firestore**, including:
+
+* Favorite Tasbih
+* Reminder information
+* Feedback messages
+
+Firebase is operated by Google.
+
+You can learn more about Google's privacy practices here:
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy)
+
+---
+
+# Third-Party Services
+
+The app may use the following third-party services:
+
+* Google Sign-In
+* Firebase Authentication
+* Firebase Cloud Firestore
+
+These services have their own privacy policies governing how they process information.
+
+---
+
+# GitHub Hosted Content
+
+Some Islamic content such as:
+
+* Tasbih
+* Surahs
+* Future Islamic resources
+
+is downloaded from publicly available JSON files hosted on GitHub.
+
+These downloads do not require you to provide personal information.
+
+---
+
+# Internet Permission
+
+The app requires internet access to:
+
+* Download Islamic content
+* Synchronize favorites
+* Synchronize reminders
+* Authenticate using Google
+* Submit feedback
+
+The app remains functional for many features even without an internet connection.
+
+---
+
+# Data Security
+
+We use reasonable security measures to protect your information.
+
+Although no method of electronic storage or transmission is completely secure, we strive to protect your information using industry-standard security practices.
+
+---
+
+# Your Rights
+
+You may:
+
+* Sign out of your account at any time
+* Delete your locally stored data by clearing the app's storage
+* Delete your cloud data by deleting your account (when supported)
+* Contact us regarding your personal information
+
+---
+
+# Children's Privacy
+
+This application is intended for general audiences and does not knowingly collect personal information from children under the age of 13.
+
+If we become aware that such information has been collected unintentionally, we will take reasonable steps to remove it.
+
+---
+
+# Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time.
+
+Any changes will be reflected by updating the "Effective Date" at the top of this document.
+
+Continued use of the app after changes indicates your acceptance of the updated Privacy Policy.
+
+---
+
+# Contact Us
+
+If you have any questions, suggestions, or concerns regarding this Privacy Policy or the app, you can contact us through the **Contact Us** section within the application.
+
+Alternatively, you may contact us by email:
+
+**Email:** [awesome.mail786@gmail.com)
+
+---
+
+# Google Play Data Safety Summary
+
+For your Play Console **Data Safety** form, based on the current app features:
+
+| Category                       | Status                                                                         |
+| ------------------------------ | ------------------------------------------------------------------------------ |
+| Personal Info (Name, Email)    | Collected (optional login)                                                     |
+| App Activity                   | No                                                                             |
+| Messages (Contact Us feedback) | Collected                                                                      |
+| Photos                         | No                                                                             |
+| Videos                         | No                                                                             |
+| Audio                          | No                                                                             |
+| Files & Docs                   | No                                                                             |
+| Contacts                       | No                                                                             |
+| Calendar                       | No                                                                             |
+| Location                       | No                                                                             |
+| Financial Info                 | No                                                                             |
+| Health                         | No                                                                             |
+| Device IDs                     | No                                                                             |
+| Data Sold                      | No                                                                             |
+| Data Shared for Advertising    | No                                                                             |
+| Data Encrypted in Transit      | Yes (Firebase/HTTPS)                                                           |
+| Data Deletion                  | Supported (through account deletion when implemented or by contacting support) |
+
