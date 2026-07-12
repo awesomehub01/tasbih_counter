@@ -1,7 +1,6 @@
 [
   {
     "id": 1,
-    "title": "SubhanAllah",
     "arabic": "سُبْحَانَ اللّٰهِ",
     "urdu": "اللہ پاک ہے۔",
     "english": "Glory be to Allah.",
@@ -14,7 +13,6 @@
   },
   {
     "id": 2,
-    "title": "Alhamdulillah",
     "arabic": "اَلْحَمْدُ لِلّٰهِ",
     "urdu": "تمام تعریفیں اللہ کے لیے ہیں۔",
     "english": "All praise belongs to Allah.",
@@ -27,7 +25,6 @@
   },
   {
     "id": 3,
-    "title": "Allahu Akbar",
     "arabic": "اللّٰهُ أَكْبَرُ",
     "urdu": "اللہ سب سے بڑا ہے۔",
     "english": "Allah is the Greatest.",
@@ -40,7 +37,6 @@
   },
   {
     "id": 4,
-    "title": "La ilaha illallah",
     "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ",
     "urdu": "اللہ کے سوا کوئی معبود نہیں۔",
     "english": "There is no deity worthy of worship except Allah.",
@@ -53,7 +49,6 @@
   },
   {
     "id": 5,
-    "title": "La ilaha illallahu wahdahu la sharika lah",
     "arabic": "لَا إِلٰهَ إِلَّا اللّٰهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
     "urdu": "اللہ کے سوا کوئی معبود نہیں، وہ اکیلا ہے، اس کا کوئی شریک نہیں، بادشاہی اور تمام تعریف اسی کے لیے ہے اور وہ ہر چیز پر قادر ہے۔",
     "english": "None has the right to be worshipped except Allah alone, without partner. His is the dominion and all praise, and He has power over everything.",
@@ -66,7 +61,6 @@
   },
   {
     "id": 6,
-    "title": "Astaghfirullah",
     "arabic": "أَسْتَغْفِرُ اللّٰهَ",
     "urdu": "میں اللہ سے بخشش مانگتا ہوں۔",
     "english": "I seek forgiveness from Allah.",
@@ -79,7 +73,6 @@
   },
   {
     "id": 7,
-    "title": "Astaghfirullaha wa atubu ilayh",
     "arabic": "أَسْتَغْفِرُ اللّٰهَ وَأَتُوبُ إِلَيْهِ",
     "urdu": "میں اللہ سے بخشش مانگتا ہوں اور اسی کی طرف توبہ کرتا ہوں۔",
     "english": "I seek Allah's forgiveness and repent to Him.",
@@ -92,7 +85,6 @@
   },
   {
     "id": 8,
-    "title": "SubhanAllahi wa bihamdihi",
     "arabic": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ",
     "urdu": "اللہ پاک ہے اور تمام تعریفیں اسی کے لیے ہیں۔",
     "english": "Glory be to Allah and all praise belongs to Him.",
@@ -105,7 +97,6 @@
   },
   {
     "id": 9,
-    "title": "SubhanAllahil Azeem",
     "arabic": "سُبْحَانَ اللّٰهِ الْعَظِيمِ",
     "urdu": "عظمت والے اللہ پاک ہے۔",
     "english": "Glory be to Allah, the Most Great.",
@@ -118,7 +109,6 @@
   },
   {
     "id": 10,
-    "title": "SubhanAllahi wa bihamdihi, SubhanAllahil Azeem",
     "arabic": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ، سُبْحَانَ اللّٰهِ الْعَظِيمِ",
     "urdu": "اللہ پاک ہے اور تمام تعریفیں اسی کے لیے ہیں، عظمت والے اللہ پاک ہے۔",
     "english": "Glory be to Allah and all praise belongs to Him. Glory be to Allah, the Most Great.",
@@ -131,7 +121,6 @@
   },
   {
     "id": 11,
-    "title": "La hawla wa la quwwata illa billah",
     "arabic": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللّٰهِ",
     "urdu": "اللہ کی مدد کے بغیر نہ کسی گناہ سے بچنے کی طاقت ہے اور نہ نیکی کرنے کی قوت۔",
     "english": "There is no power and no strength except with Allah.",
@@ -144,7 +133,6 @@
   },
   {
     "id": 12,
-    "title": "Hasbunallahu wa ni'mal wakeel",
     "arabic": "حَسْبُنَا اللّٰهُ وَنِعْمَ الْوَكِيلُ",
     "urdu": "اللہ ہمارے لیے کافی ہے اور وہ بہترین کارساز ہے۔",
     "english": "Allah is sufficient for us, and He is the Best Disposer of affairs.",
@@ -157,7 +145,6 @@
   },
   {
     "id": 13,
-    "title": "Allahumma salli ala Muhammad",
     "arabic": "اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ",
     "urdu": "اے اللہ! محمد ﷺ پر رحمت نازل فرما۔",
     "english": "O Allah, send Your blessings upon Muhammad ﷺ.",
@@ -170,7 +157,6 @@
   },
   {
     "id": 14,
-    "title": "Allahumma salli ala Muhammadin wa ala aali Muhammad",
     "arabic": "اللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
     "urdu": "اے اللہ! محمد ﷺ اور آلِ محمد پر رحمت نازل فرما۔",
     "english": "O Allah, send blessings upon Muhammad ﷺ and the family of Muhammad ﷺ.",
@@ -183,7 +169,6 @@
   },
   {
     "id": 15,
-    "title": "Raditu billahi Rabban",
     "arabic": "رَضِيتُ بِاللّٰهِ رَبًّا وَبِالْإِسْلَامِ دِينًا وَبِمُحَمَّدٍ ﷺ نَبِيًّا",
     "urdu": "میں اللہ کو اپنا رب، اسلام کو اپنا دین، اور محمد ﷺ کو اپنا نبی مان کر راضی ہوں۔",
     "english": "I am pleased with Allah as my Lord, Islam as my religion, and Muhammad ﷺ as my Prophet.",
@@ -196,7 +181,6 @@
   },
   {
     "id": 16,
-    "title": "Allahumma inni as'alukal Jannah",
     "arabic": "اللّٰهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ",
     "urdu": "اے اللہ! میں تجھ سے جنت مانگتا ہوں۔",
     "english": "O Allah, I ask You for Paradise.",
@@ -209,7 +193,6 @@
   },
   {
     "id": 17,
-    "title": "Allahumma ajirni minan nar",
     "arabic": "اللّٰهُمَّ أَجِرْنِي مِنَ النَّارِ",
     "urdu": "اے اللہ! مجھے جہنم سے بچا۔",
     "english": "O Allah, protect me from the Hellfire.",
@@ -222,7 +205,6 @@
   },
   {
     "id": 18,
-    "title": "Allahumma innaka 'afuwwun tuhibbul 'afwa fa'fu 'anni",
     "arabic": "اللّٰهُمَّ إِنَّكَ عَفُوٌّ تُحِبُّ الْعَفْوَ فَاعْفُ عَنِّي",
     "urdu": "اے اللہ! تو بہت معاف کرنے والا ہے، معافی کو پسند کرتا ہے، پس مجھے معاف فرما۔",
     "english": "O Allah, You are Most Forgiving and love forgiveness, so forgive me.",
@@ -235,7 +217,6 @@
   },
   {
     "id": 19,
-    "title": "Sayyidul Istighfar",
     "arabic": "اللّٰهُمَّ أَنْتَ رَبِّي لَا إِلٰهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ...",
     "urdu": "اے اللہ! تو میرا رب ہے، تیرے سوا کوئی معبود نہیں، تو نے مجھے پیدا کیا اور میں تیرا بندہ ہوں...",
     "english": "O Allah, You are my Lord. None has the right to be worshipped except You. You created me and I am Your servant...",
@@ -248,7 +229,6 @@
   },
   {
     "id": 20,
-    "title": "Rabbighfir li wa tub 'alayya",
     "arabic": "رَبِّ اغْفِرْ لِي وَتُبْ عَلَيَّ إِنَّكَ أَنْتَ التَّوَّابُ الرَّحِيمُ",
     "urdu": "اے میرے رب! مجھے بخش دے اور میری توبہ قبول فرما، بے شک تو بہت توبہ قبول کرنے والا اور نہایت رحم کرنے والا ہے۔",
     "english": "My Lord, forgive me and accept my repentance. Indeed, You are the Acceptor of Repentance, the Most Merciful.",
@@ -261,7 +241,6 @@
   },
   {
     "id": 21,
-    "title": "Rabbana Atina Fid-Dunya Hasanah",
     "arabic": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
     "urdu": "اے ہمارے رب! ہمیں دنیا میں بھلائی عطا فرما، آخرت میں بھی بھلائی عطا فرما، اور ہمیں آگ کے عذاب سے بچا۔",
     "english": "Our Lord, grant us good in this world and good in the Hereafter, and protect us from the punishment of the Fire.",
@@ -274,7 +253,6 @@
   },
   {
     "id": 22,
-    "title": "Hasbiyallahu La Ilaha Illa Huwa",
     "arabic": "حَسْبِيَ اللّٰهُ لَا إِلٰهَ إِلَّا هُوَ عَلَيْهِ تَوَكَّلْتُ وَهُوَ رَبُّ الْعَرْشِ الْعَظِيمِ",
     "urdu": "میرے لیے اللہ ہی کافی ہے، اس کے سوا کوئی معبود نہیں، میں نے اسی پر بھروسہ کیا، اور وہ عرشِ عظیم کا رب ہے۔",
     "english": "Allah is sufficient for me. There is no deity except Him. Upon Him I have relied, and He is the Lord of the Mighty Throne.",
@@ -287,7 +265,6 @@
   },
   {
     "id": 23,
-    "title": "Ya Hayyu Ya Qayyum",
     "arabic": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
     "urdu": "اے ہمیشہ زندہ رہنے والے، اے سب کو قائم رکھنے والے! میں تیری رحمت کے ذریعے مدد مانگتا ہوں۔",
     "english": "O Ever-Living, O Sustainer, in Your mercy I seek relief.",
@@ -300,7 +277,6 @@
   },
   {
     "id": 24,
-    "title": "Bismillahilladhi La Yadurru",
     "arabic": "بِسْمِ اللّٰهِ الَّذِي لَا يَضُرُّ مَعَ اسْمِهِ شَيْءٌ فِي الْأَرْضِ وَلَا فِي السَّمَاءِ وَهُوَ السَّمِيعُ الْعَلِيمُ",
     "urdu": "اللہ کے نام کے ساتھ، جس کے نام کے ساتھ زمین و آسمان میں کوئی چیز نقصان نہیں پہنچا سکتی، اور وہ خوب سننے والا، خوب جاننے والا ہے۔",
     "english": "In the Name of Allah, with Whose Name nothing on earth or in heaven can cause harm, and He is the All-Hearing, the All-Knowing.",
@@ -313,7 +289,6 @@
   },
   {
     "id": 25,
-    "title": "Allahumma Antas-Salam",
     "arabic": "اللّٰهُمَّ أَنْتَ السَّلَامُ وَمِنْكَ السَّلَامُ تَبَارَكْتَ يَا ذَا الْجَلَالِ وَالْإِكْرَامِ",
     "urdu": "اے اللہ! تو ہی سلامتی والا ہے، سلامتی تجھی سے ہے، اے بزرگی اور عزت والے! تو بہت بابرکت ہے۔",
     "english": "O Allah, You are Peace, and from You comes peace. Blessed are You, O Possessor of Majesty and Honor.",
@@ -326,7 +301,6 @@
   },
   {
     "id": 26,
-    "title": "Subhanal Malikil Quddus",
     "arabic": "سُبْحَانَ الْمَلِكِ الْقُدُّوسِ",
     "urdu": "پاک ہے بادشاہ، نہایت مقدس۔",
     "english": "Glory be to the King, the Most Holy.",
@@ -339,7 +313,6 @@
   },
   {
     "id": 27,
-    "title": "Allahumma A'inni Ala Dhikrika",
     "arabic": "اللّٰهُمَّ أَعِنِّي عَلَى ذِكْرِكَ وَشُكْرِكَ وَحُسْنِ عِبَادَتِكَ",
     "urdu": "اے اللہ! اپنے ذکر، اپنے شکر اور بہترین عبادت پر میری مدد فرما۔",
     "english": "O Allah, help me remember You, thank You, and worship You in the best manner.",
@@ -352,7 +325,6 @@
   },
   {
     "id": 28,
-    "title": "Ayatul Kursi",
     "arabic": "اللّٰهُ لَا إِلٰهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ...",
     "urdu": "آیت الکرسی",
     "english": "Ayatul Kursi (Quran 2:255).",
@@ -365,7 +337,6 @@
   },
   {
     "id": 29,
-    "title": "Surah Al-Ikhlas",
     "arabic": "قُلْ هُوَ اللّٰهُ أَحَدٌ",
     "urdu": "سورۃ الاخلاص",
     "english": "Surah Al-Ikhlas.",
@@ -378,7 +349,6 @@
   },
   {
     "id": 30,
-    "title": "Tasbih Fatimah",
     "arabic": "سُبْحَانَ اللّٰهِ ٣٣، اَلْحَمْدُ لِلّٰهِ ٣٣، اللّٰهُ أَكْبَرُ ٣٤",
     "urdu": "33 مرتبہ سبحان اللہ، 33 مرتبہ الحمد للہ، 34 مرتبہ اللہ اکبر۔",
     "english": "33× SubhanAllah, 33× Alhamdulillah, 34× Allahu Akbar.",
@@ -391,7 +361,6 @@
   },
   {
     "id": 31,
-    "title": "SubhanAllahi wa bihamdihi 'Adada Khalqih",
     "arabic": "سُبْحَانَ اللّٰهِ وَبِحَمْدِهِ عَدَدَ خَلْقِهِ وَرِضَا نَفْسِهِ وَزِنَةَ عَرْشِهِ وَمِدَادَ كَلِمَاتِهِ",
     "urdu": "اللہ پاک ہے اور تمام تعریفیں اسی کے لیے ہیں، اس کی مخلوق کی تعداد کے برابر، اس کی رضا کے مطابق، اس کے عرش کے وزن کے برابر، اور اس کے کلمات کی سیاہی کے برابر۔",
     "english": "Glory and praise be to Allah equal to the number of His creation, His pleasure, the weight of His Throne, and the ink of His Words.",
@@ -404,7 +373,6 @@
   },
   {
     "id": 32,
-    "title": "A'udhu bi Kalimatillahit-Tammati",
     "arabic": "أَعُوذُ بِكَلِمَاتِ اللّٰهِ التَّامَّاتِ مِنْ شَرِّ مَا خَلَقَ",
     "urdu": "میں اللہ کے کامل کلمات کے ذریعے اس کی مخلوق کے ہر شر سے پناہ مانگتا ہوں۔",
     "english": "I seek refuge in the perfect Words of Allah from the evil of what He has created.",
@@ -417,7 +385,6 @@
   },
   {
     "id": 33,
-    "title": "Allahumma Bika Asbahna",
     "arabic": "اللّٰهُمَّ بِكَ أَصْبَحْنَا وَبِكَ أَمْسَيْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ النُّشُورُ",
     "urdu": "اے اللہ! تیرے ہی ذریعے ہم نے صبح کی، تیرے ہی ذریعے شام کرتے ہیں، تیرے ہی ذریعے جیتے اور مرتے ہیں، اور تیری ہی طرف دوبارہ اٹھنا ہے۔",
     "english": "O Allah, by You we enter the morning, by You we enter the evening, by You we live and die, and to You is the resurrection.",
@@ -430,7 +397,6 @@
   },
   {
     "id": 34,
-    "title": "Allahumma Bika Amsayna",
     "arabic": "اللّٰهُمَّ بِكَ أَمْسَيْنَا وَبِكَ أَصْبَحْنَا وَبِكَ نَحْيَا وَبِكَ نَمُوتُ وَإِلَيْكَ الْمَصِيرُ",
     "urdu": "اے اللہ! تیرے ہی ذریعے ہم نے شام کی، تیرے ہی ذریعے صبح کرتے ہیں، تیرے ہی ذریعے جیتے اور مرتے ہیں، اور تیری ہی طرف لوٹنا ہے۔",
     "english": "O Allah, by You we enter the evening, by You we enter the morning, by You we live and die, and to You is the final return.",
@@ -443,7 +409,6 @@
   },
   {
     "id": 35,
-    "title": "Allahumma inni As'alukal 'Afwa wal 'Afiyah",
     "arabic": "اللّٰهُمَّ إِنِّي أَسْأَلُكَ الْعَفْوَ وَالْعَافِيَةَ",
     "urdu": "اے اللہ! میں تجھ سے معافی اور عافیت مانگتا ہوں۔",
     "english": "O Allah, I ask You for forgiveness and well-being.",
@@ -456,7 +421,6 @@
   },
   {
     "id": 36,
-    "title": "Allahumma inni A'udhu bika minal-Hammi wal-Hazan",
     "arabic": "اللّٰهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ",
     "urdu": "اے اللہ! میں غم اور پریشانی سے تیری پناہ مانگتا ہوں۔",
     "english": "O Allah, I seek refuge in You from anxiety and sorrow.",
@@ -469,7 +433,6 @@
   },
   {
     "id": 37,
-    "title": "Rabbi Zidni 'Ilma",
     "arabic": "رَبِّ زِدْنِي عِلْمًا",
     "urdu": "اے میرے رب! میرے علم میں اضافہ فرما۔",
     "english": "My Lord, increase me in knowledge.",
@@ -482,7 +445,6 @@
   },
   {
     "id": 38,
-    "title": "Rabbana La Tuzigh Qulubana",
     "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
     "urdu": "اے ہمارے رب! ہمیں ہدایت دینے کے بعد ہمارے دل ٹیڑھے نہ کرنا۔",
     "english": "Our Lord, do not let our hearts deviate after You have guided us.",
@@ -495,7 +457,6 @@
   },
   {
     "id": 39,
-    "title": "Rabbish Rahli Sadri",
     "arabic": "رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي",
     "urdu": "اے میرے رب! میرا سینہ کھول دے اور میرا کام آسان فرما۔",
     "english": "My Lord, expand my chest and ease my task for me.",
@@ -508,7 +469,6 @@
   },
   {
     "id": 40,
-    "title": "Rabbana Hablana Min Azwajina",
     "arabic": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ وَاجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
     "urdu": "اے ہمارے رب! ہمیں ہماری بیویوں اور اولاد کی طرف سے آنکھوں کی ٹھنڈک عطا فرما اور ہمیں متقیوں کا پیشوا بنا۔",
     "english": "Our Lord, grant us from our spouses and offspring comfort to our eyes and make us leaders of the righteous.",
